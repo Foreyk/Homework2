@@ -2,7 +2,7 @@ public class Main {
     public static void main(String[] args) {
 //        Задание  1
         System.out.println();
-        System.out.println("Задание 1:");
+        System.out.println("Задание 1: ");
         var dog = 8d;
         var cat = 3.6;
         var paper = 763789;
